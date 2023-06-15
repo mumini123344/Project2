@@ -1,0 +1,1 @@
+{"uuid":"ad269249-22c9-442b-a788-8efca9c8b498","name":"Project2","children":["372de3d2-612d-441e-b0b5-922021dbdcb0"],"befores":[{"name":"setConnection","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1686829230780,"stop":1686829230784}],"afters":[],"start":1686829230768,"stop":1686829238549}
