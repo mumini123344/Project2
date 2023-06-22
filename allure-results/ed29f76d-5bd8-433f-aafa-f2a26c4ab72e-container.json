@@ -1,0 +1,1 @@
+{"uuid":"ed29f76d-5bd8-433f-aafa-f2a26c4ab72e","name":"Default Suite","children":["10f9ba37-58a4-461c-b565-6c44e3a9c75e"],"befores":[{"name":"setUpConn","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1686814432441,"stop":1686814432712}],"afters":[],"start":1686814432428,"stop":1686814453208}

@@ -1,0 +1,1 @@
+{"uuid":"f4af094b-da04-4d19-9de2-36c0087c3cc1","name":"SwoopTest.setUp","children":["794208cc-efb2-4b22-bcd6-4eb3d4b3d74a"],"description":"","befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1686814540409,"stop":1686814541424}],"afters":[],"start":1686814540409,"stop":1686814541424}
